@@ -27,8 +27,8 @@ Place: Dragas Hall, r. 1102
 * Week 3 - January 23 : [Introduction to R](https://drive.google.com/file/d/1ET4w96hr5qGDx_lq6aM78Nyc9tn4WUuz/view?usp=sharing)
 * Week 4 - January 30 : [Measuring and Archiving the Web](https://docs.google.com/presentation/d/1WLPlpCS8OtTE_o-rQcoXyeKc-b_US1ZzTFsiwv9sU4A/edit?usp=sharing)
 * Week 5 - February 6 : [Searching the Web](https://docs.google.com/presentation/d/1jbci5sgF2FSi7II9gQdRK7ZdaZwNlqnPh3FUPuZq7Q0/edit?usp=sharing)
-* Week 6 - February 13 - No Class
-* Week 7 - February 20 - [Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-07-social-networks.ppt)
+* Week 6 - February 13 - [Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-07-social-networks.ppt)
+* Week 7 - February 20 - 
 * Week 8 - February 27 - [Selection and Social Influence](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-08-selection.ppt)
 * Week 9 - March 6 - No Class -- Spring Break
 * Week 10 - March 13 - [Visualizing Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-10-visualization.ppt), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
