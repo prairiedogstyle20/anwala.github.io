@@ -27,18 +27,26 @@ Place: Dragas Hall, r. 1102
 * Week 3 - January 23 : [Introduction to R](https://drive.google.com/file/d/1ET4w96hr5qGDx_lq6aM78Nyc9tn4WUuz/view?usp=sharing)
 * Week 4 - January 30 : [Measuring and Archiving the Web](https://docs.google.com/presentation/d/1WLPlpCS8OtTE_o-rQcoXyeKc-b_US1ZzTFsiwv9sU4A/edit?usp=sharing)
 * Week 5 - February 6 : [Searching the Web](https://docs.google.com/presentation/d/1jbci5sgF2FSi7II9gQdRK7ZdaZwNlqnPh3FUPuZq7Q0/edit?usp=sharing)
-* Week 6 - February 13 - [Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-07-social-networks.ppt)
-* Week 7 - February 20 - 
-* Week 8 - February 27 - [Selection and Social Influence](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-08-selection.ppt)
+* Week 6 - February 13 : [Social Networks](https://docs.google.com/presentation/d/1ihf6N8bHgzM5VLAyHkmF_i5JGUBVpCSdsvYpk8XgHwo/edit?usp=sharing)
+* Week 7 - February 20 - [Selection and Social Influence](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-08-selection.ppt)
+* Week 8 - February 27 - [Visualizing Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-10-visualization.ppt), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
 * Week 9 - March 6 - No Class -- Spring Break
-* Week 10 - March 13 - [Visualizing Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-10-visualization.ppt), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
-* Week 11 - March 20 - [Collective Intelligence and Recommender Systems](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-11-ci-recommender.ppt)
-* Week 12 - March 27 - [Clustering Algorithms](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-12-clustering.ppt)
-* Week 13 - April 3 - No Class 
-* Week 14 - April 10 - [Document Filtering](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-14-document-filtering.ppt)
-* Week 15 - April 17 - [kNN and SVM](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-15-knn-svm.ppt) 
+* Week 10 - March 13 - [Collective Intelligence and Recommender Systems](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-11-ci-recommender.ppt)
+* Week 11 - March 20 - [Clustering Algorithms](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-12-clustering.ppt)
+* Week 12 - March 27 - [Document Filtering](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-14-document-filtering.ppt)
+* Week 13 - April 3 - [kNN and SVM](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-15-knn-svm.ppt) 
+* Week 14 - April 10 - 
+* Week 15 - April 17 - 
 * Week 16 - April 24 - Exam week (No Class)
 
 ### Assignments (subject to change)
 * [A1 due 2017-01-28](./assignments/a1.txt)
 * [A2 due 2017-02-11](./assignments/a2.txt)
+* [A3 due 2017-02-18](./assignments/a3.txt)
+* [A4 due 2017-02-25](./assignments/a4.txt)
+* [A5 due 2017-03-04](./assignments/a5.txt)
+* [A6 due 2017-03-18](./assignments/a6.txt)
+* [A7 due 2017-03-31](./assignments/a7.txt)
+* [A8 due 2017-04-08](./assignments/a8.txt)
+* [A9 due 2017-04-21](./assignments/a9.txt)
+* [A10 due 2017-05-01](./assignments/a10.txt)
