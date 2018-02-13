@@ -42,7 +42,9 @@ Place: Dragas Hall, r. 1102
 ### Assignments (subject to change)
 * [A1 due 2018-01-28](./assignments/a1.txt)
 * [A2 due 2018-02-11](./assignments/a2.txt)
-* [A3 due 2018-02-18](./assignments/a3.txt)
+* [A3 due 2018-02-20](./assignments/a3.txt)
+
+### Under review
 * [A4 due 2018-02-25](./assignments/a4.txt)
 * [A5 due 2018-03-04](./assignments/a5.txt)
 * [A6 due 2018-03-18](./assignments/a6.txt)
