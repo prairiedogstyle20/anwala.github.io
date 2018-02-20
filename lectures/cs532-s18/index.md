@@ -28,7 +28,7 @@ Place: Dragas Hall, r. 1102
 * Week 4 - January 30 : [Measuring and Archiving the Web](https://docs.google.com/presentation/d/1WLPlpCS8OtTE_o-rQcoXyeKc-b_US1ZzTFsiwv9sU4A/edit?usp=sharing)
 * Week 5 - February 6 : [Searching the Web](https://docs.google.com/presentation/d/1jbci5sgF2FSi7II9gQdRK7ZdaZwNlqnPh3FUPuZq7Q0/edit?usp=sharing)
 * Week 6 - February 13 : [Social Networks](https://docs.google.com/presentation/d/1ihf6N8bHgzM5VLAyHkmF_i5JGUBVpCSdsvYpk8XgHwo/edit?usp=sharing)
-* Week 7 - February 20 - [Selection and Social Influence](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-08-selection.ppt)
+* Week 7 - February 20 : [Selection and Social Influence](https://docs.google.com/presentation/d/1ZRPM1lEe-E0u6tLljbnweX3ST4_H-oAA03ylBk2UlWk/edit?usp=sharing)
 * Week 8 - February 27 - [Visualizing Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-10-visualization.ppt), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
 * Week 9 - March 6 - No Class -- Spring Break
 * Week 10 - March 13 - [Collective Intelligence and Recommender Systems](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-11-ci-recommender.ppt)
@@ -43,10 +43,9 @@ Place: Dragas Hall, r. 1102
 * [A1 due 2018-01-28](./assignments/a1.txt)
 * [A2 due 2018-02-11](./assignments/a2.txt)
 * [A3 due 2018-02-20](./assignments/a3.txt)
-
+* [A4 due 2018-02-27](./assignments/a4.txt)
+* [A5 due 2018-03-07](./assignments/a5.txt)
 ### Under review
-* [A4 due 2018-02-25](./assignments/a4.txt)
-* [A5 due 2018-03-04](./assignments/a5.txt)
 * [A6 due 2018-03-18](./assignments/a6.txt)
 * [A7 due 2018-03-31](./assignments/a7.txt)
 * [A8 due 2018-04-08](./assignments/a8.txt)

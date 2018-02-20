@@ -3,7 +3,7 @@ Spring 2018
 http://anwala.github.io/lectures/cs532-s18/
 
 Assignment #3
-Due: 11:59pm February 18
+Due: 11:59pm February 20
 
 1.  Download the 1000 URIs from assignment #2.  "curl", "wget", or
 "lynx" are all good candidate programs to use.  We want just the
