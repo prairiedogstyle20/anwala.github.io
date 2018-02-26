@@ -29,7 +29,7 @@ Place: Dragas Hall, r. 1102
 * Week 5 - February 6 : [Searching the Web](https://docs.google.com/presentation/d/1jbci5sgF2FSi7II9gQdRK7ZdaZwNlqnPh3FUPuZq7Q0/edit?usp=sharing)
 * Week 6 - February 13 : [Social Networks](https://docs.google.com/presentation/d/1ihf6N8bHgzM5VLAyHkmF_i5JGUBVpCSdsvYpk8XgHwo/edit?usp=sharing)
 * Week 7 - February 20 : [Selection and Social Influence](https://docs.google.com/presentation/d/1ZRPM1lEe-E0u6tLljbnweX3ST4_H-oAA03ylBk2UlWk/edit?usp=sharing)
-* Week 8 - February 27 - [Visualizing Social Networks](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-10-visualization.ppt), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
+* Week 8 - February 27 : [Visualizing Social Networks](https://docs.google.com/presentation/d/1PA6QpRS0RK_e6xeBOSX0tdU8FWw7gcqNo4CT6DqpfLc/edit?usp=sharing), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
 * Week 9 - March 6 - No Class -- Spring Break
 * Week 10 - March 13 - [Collective Intelligence and Recommender Systems](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-11-ci-recommender.ppt)
 * Week 11 - March 20 - [Clustering Algorithms](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-12-clustering.ppt)
