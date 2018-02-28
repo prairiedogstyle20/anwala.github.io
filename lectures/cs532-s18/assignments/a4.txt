@@ -36,11 +36,11 @@ https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users
 If you do not have followers on Twitter (or don't have more than 50),
 then use my twitter account "acnwala".
 
-Extra credit, 3 points:
+Extra credit, 1 points:
 
 3.  Repeat question #1, but with your (or a specified) LinkedIn profile.
 
-Extra credit, 1 point:
+Extra credit, 3 point:
 
 4.  Repeat question #2, but change "followers" to "following"?  In
 other words, are the people I am following following more people?

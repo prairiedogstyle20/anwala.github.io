@@ -56,8 +56,16 @@ https://snap.stanford.edu/snappy/doc/reference/CommunityGirvanNewman.html
 
 http://igraph.org/python/doc/igraph-pysrc.html#Graph.community_edge_betweenness
 
+(extra credit, 10 points)
+
+2. Use D3.js's force-directed graph layout to draw the Karate Club Graph before split. Color the nodes according to the factions they belong to (John A or Mr. Hi). After a button is clicked, split the graph based on the original graph split. Include a link to the HTML/JavaScript files in your report and all necessary screenshots.
+
+See: https://bl.ocks.org/mbostock/4062045
+
+https://d3js.org/
+
 (extra credit, 3 points)
 
-2.  We know the group split in two different groups.  Suppose the
+3.  We know the group split in two different groups.  Suppose the
 disagreements in the group were more nuanced -- what would the clubs
 look like if they split into groups of 3, 4, and 5?
