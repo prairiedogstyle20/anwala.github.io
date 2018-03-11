@@ -3,7 +3,7 @@ Spring 2018
 http://anwala.github.io/lectures/cs532-s18/
 
 Assignment #6
-Due: 11:59pm March 18
+Due: 11:59pm March 21
 
 The goal of this project is to use the basic recommendation principles
 we have learned for user-collected data. You will modify the code
