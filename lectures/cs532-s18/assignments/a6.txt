@@ -109,55 +109,9 @@ Extra credit
 
 5.  Rank the 1,682 movies according to the 1997/1998 MovieLense
 data.  Now rank the same 1,682 movies according to todays (March
-2017) IMDB data (break ties based on # of users, for example: 7.2
+2018) IMDB data (break ties based on # of users, for example: 7.2
 with 10,000 raters > 7.2 with 9,000 raters).
 
 Draw a graph, where each dot is a film (i.e., 1,682 dots).  The
 x-axis is the MovieLense ranking and the y-axis is today's IMDB
 ranking.
-
-What is Pearon's r for the two lists (along w/ the p-value)?  Assuming
-the two user bases are interchangable (which might not be a good
-assumption), what does this say about the attitudes about the films
-after nearly 20 years?
-
-(3 points)
-
-6.  Repeat #6, but IMDB data from approximately July 31, 2005.  What
-is the cumulative error (in days) from the desired target day of
-July 31, 2005?  For example, if 1 memento is from July 1, 2005 and 
-another memento is from July 31, 2006, then the cumulative error 
-for the two mementos is 30 days + 365 days = 385 days.
-
-Note: the URIs in the MovieLens data redirect, be sure to use
-the final values as URI-Rs for the archives:
-
-$ curl -i -L --silent "http://us.imdb.com/M/title-exact?Top%20Gun%20(1986)" 
-HTTP/1.1 301 Moved Permanently
-Date: Wed, 16 Mar 2016 18:37:06 GMT
-Server: Server
-Location: http://www.imdb.com/M/title-exact?Top%20Gun%20(1986)
-Content-Length: 260
-Content-Type: text/html; charset=iso-8859-1
-
-HTTP/1.1 302 Found
-Date: Wed, 16 Mar 2016 18:37:06 GMT
-Server: HTTPDaemon
-X-Frame-Options: SAMEORIGIN
-Cache-Control: private
-Location: http://www.imdb.com/title/tt0092099/
-Content-Type: text/plain
-Set-Cookie: uu=BCYuNIAbuc9FDeWcqVNAaaXLjXbagPPhyTQbhxr8CTOkHFcqkeyRbKqvk_m6buuHjmHkufNf5z5S4WGfKlG6BPOhzgA-jcsRZ5Q7GW2MJP0wNI9AZMnd245Mw_xI6spRuK_VF2lSxUGPIRXy4d-NY-YwZkqTEZ8uTOXchLSvqBpgsDI;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Vary: Accept-Encoding,User-Agent
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-Content-Length: 0
-
-HTTP/1.1 200 OK
-Date: Wed, 16 Mar 2016 18:37:06 GMT
-Server: Server
-X-Frame-Options: SAMEORIGIN
-Content-Security-Policy: frame-ancestors 'self' imdb.com *.imdb.com *.media-imdb.com withoutabox.com *.withoutabox.com amazon.com *.amazon.com amazon.co.uk *.amazon.co.uk amazon.de *.amazon.de translate.google.com images.google.com www.google.com www.google.co.uk search.aol.com bing.com www.bing.com
-Content-Type: text/html;charset=UTF-8
-Content-Language: en-US
-Vary: Accept-Encoding,User-Agent
-[deletia...]
