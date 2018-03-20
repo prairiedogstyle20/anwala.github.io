@@ -32,7 +32,7 @@ Place: Dragas Hall, r. 1102
 * Week 8 - February 27 : [Visualizing Social Networks](https://docs.google.com/presentation/d/1PA6QpRS0RK_e6xeBOSX0tdU8FWw7gcqNo4CT6DqpfLc/edit?usp=sharing), [Cukier and Murray code + slides](https://github.com/alignedleft/strata-d3-tutorial), [Bostock tutorials](https://github.com/d3/d3/wiki/Tutorials)
 * Week 9 - March 6 - No Class -- Spring Break
 * Week 10 - March 13 : [Collective Intelligence and Recommender Systems](https://docs.google.com/presentation/d/1rt6O2BIXoWBzYhzs2RzYHhmoeZLkPyTEbE_vhJ1kSPE/edit?usp=sharing)
-* Week 11 - March 20 - [Clustering Algorithms](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-12-clustering.ppt)
+* Week 11 - March 20 : [Clustering Algorithms](https://docs.google.com/presentation/d/11mxRBRXiwvGQdBDqosDHn5np5tnx10Pdm0L6POtx-_I/edit?usp=sharing)
 * Week 12 - March 27 - [Document Filtering](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-14-document-filtering.ppt)
 * Week 13 - April 3 - [kNN and SVM](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-15-knn-svm.ppt) 
 * Week 14 - April 10 - 
@@ -46,8 +46,8 @@ Place: Dragas Hall, r. 1102
 * [A4 due 2018-02-27](./assignments/a4.txt)
 * [A5 due 2018-03-07](./assignments/a5.txt)
 * [A6 due 2018-03-21](./assignments/a6.txt)
-### Under review
 * [A7 due 2018-03-31](./assignments/a7.txt)
+### Under review
 * [A8 due 2018-04-08](./assignments/a8.txt)
 * [A9 due 2018-04-21](./assignments/a9.txt)
 * [A10 due 2018-05-01](./assignments/a10.txt)
