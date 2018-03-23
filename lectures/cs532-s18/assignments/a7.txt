@@ -36,8 +36,8 @@ the most similar blogs (see slides 13 & 14).  Include the JPEG in
 your report and upload the ascii file to github (it will be too
 unwieldy for inclusion in the report).
 
-3.  Cluster the blogs using K-Means, using k=5,10,20. (see slide
-18).  Print the values in each centroid, for each value of k.  How
+3.  Cluster the blogs using K-Means, using k=5,10,20. (see slide 
+25).  Print the values in each centroid, for each value of k.  How
 many iterations were required for each value of k?
 
 4.  Use MDS to create a JPEG of the blogs similar to slide 29 of the 
