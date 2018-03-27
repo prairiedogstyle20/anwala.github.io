@@ -33,7 +33,7 @@ Place: Dragas Hall, r. 1102
 * Week 9 - March 6 - No Class -- Spring Break
 * Week 10 - March 13 : [Collective Intelligence and Recommender Systems](https://docs.google.com/presentation/d/1rt6O2BIXoWBzYhzs2RzYHhmoeZLkPyTEbE_vhJ1kSPE/edit?usp=sharing)
 * Week 11 - March 20 : [Clustering Algorithms](https://docs.google.com/presentation/d/11mxRBRXiwvGQdBDqosDHn5np5tnx10Pdm0L6POtx-_I/edit?usp=sharing)
-* Week 12 - March 27 - [Document Filtering](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-14-document-filtering.ppt)
+* Week 12 - March 27 : [Document Filtering](https://docs.google.com/presentation/d/13qM18TpP8a9pMrxR8BEE7AcocbbiZbjN62FWZZROnPc/edit?usp=sharing)
 * Week 13 - April 3 - [kNN and SVM](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-15-knn-svm.ppt) 
 * Week 14 - April 10 - 
 * Week 15 - April 17 - 
