@@ -47,7 +47,7 @@ Place: Dragas Hall, r. 1102
 * [A5 due 2018-03-07](./assignments/a5.txt)
 * [A6 due 2018-03-21](./assignments/a6.txt)
 * [A7 due 2018-03-31](./assignments/a7.txt)
-### Under review
 * [A8 due 2018-04-08](./assignments/a8.txt)
+### Under review
 * [A9 due 2018-04-21](./assignments/a9.txt)
 * [A10 due 2018-05-01](./assignments/a10.txt)
