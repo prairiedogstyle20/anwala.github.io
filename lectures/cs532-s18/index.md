@@ -34,7 +34,7 @@ Place: Dragas Hall, r. 1102
 * Week 10 - March 13 : [Collective Intelligence and Recommender Systems](https://docs.google.com/presentation/d/1rt6O2BIXoWBzYhzs2RzYHhmoeZLkPyTEbE_vhJ1kSPE/edit?usp=sharing)
 * Week 11 - March 20 : [Clustering Algorithms](https://docs.google.com/presentation/d/11mxRBRXiwvGQdBDqosDHn5np5tnx10Pdm0L6POtx-_I/edit?usp=sharing)
 * Week 12 - March 27 : [Document Filtering](https://docs.google.com/presentation/d/13qM18TpP8a9pMrxR8BEE7AcocbbiZbjN62FWZZROnPc/edit?usp=sharing)
-* Week 13 - April 3 - [kNN and SVM](https://raw.githubusercontent.com/phonedude/cs532-s17/master/slides/week-15-knn-svm.ppt) 
+* Week 13 - April 3 - [Binary web queries classifier](https://docs.google.com/presentation/d/1Qg2wAwBOf_oyeIMYBmbYtO8D5-BETGLH3gT2ai7A6Ac/edit?usp=sharing) 
 * Week 14 - April 10 - 
 * Week 15 - April 17 - 
 * Week 16 - April 24 - Exam week (No Class)
