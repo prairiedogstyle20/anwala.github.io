@@ -34,10 +34,10 @@ Place: Dragas Hall, r. 1102
 * Week 10 - March 13 : [Collective Intelligence and Recommender Systems](https://docs.google.com/presentation/d/1rt6O2BIXoWBzYhzs2RzYHhmoeZLkPyTEbE_vhJ1kSPE/edit?usp=sharing)
 * Week 11 - March 20 : [Clustering Algorithms](https://docs.google.com/presentation/d/11mxRBRXiwvGQdBDqosDHn5np5tnx10Pdm0L6POtx-_I/edit?usp=sharing)
 * Week 12 - March 27 : [Document Filtering](https://docs.google.com/presentation/d/13qM18TpP8a9pMrxR8BEE7AcocbbiZbjN62FWZZROnPc/edit?usp=sharing)
-* Week 13 - April 3 - [Binary web queries classifier](https://docs.google.com/presentation/d/1Qg2wAwBOf_oyeIMYBmbYtO8D5-BETGLH3gT2ai7A6Ac/edit?usp=sharing) 
-* Week 14 - April 10 - 
-* Week 15 - April 17 - 
-* Week 16 - April 24 - Exam week (No Class)
+* Week 13 - April 3 : [Binary web queries classifier](https://docs.google.com/presentation/d/1Qg2wAwBOf_oyeIMYBmbYtO8D5-BETGLH3gT2ai7A6Ac/edit?usp=sharing) 
+* Week 14 - April 10 : [kNN and SVM](https://docs.google.com/presentation/d/1wHe3X4aVD-_v3SOxefupQgMI6uPTaWo-HOke9CI98_c/edit?usp=sharing) 
+* Week 15 - April 17 : Student Presentations
+* Week 16 - April 24 : Exam week (No Class)
 
 ### Assignments (subject to change)
 * [A1 due 2018-01-28](./assignments/a1.txt)
@@ -48,6 +48,5 @@ Place: Dragas Hall, r. 1102
 * [A6 due 2018-03-21](./assignments/a6.txt)
 * [A7 due 2018-03-31](./assignments/a7.txt)
 * [A8 due 2018-04-08](./assignments/a8.txt)
-### Under review
 * [A9 due 2018-04-21](./assignments/a9.txt)
-* [A10 due 2018-05-01](./assignments/a10.txt)
+* A10 due 2018-04-17 (Student Presentations: See assignment-10 slack channel for details)
