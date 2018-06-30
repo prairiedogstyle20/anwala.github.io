@@ -8,7 +8,7 @@ Place: Perry Library
 * A First Book of C++ by Gary Bronson (4th Edition)
 
 ### Class Email list
-* Slack - CS115
+* [Slack](https://slack.com/downloads/) - CS115
 
 ### Class Schedule (subject to change)
 * July 20 - Introduction to Programming
