@@ -18,3 +18,4 @@ Place: Perry Library
 	* The main() Function
 	* The cout Object
 	* Programming Style
+* July 25 - Chapter Summary and Common Programming Errors
