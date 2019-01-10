@@ -40,15 +40,4 @@ Place: Dragas Hall, r. 1117
 
 ### Assignments (subject to change)
 * [A1 due 2019-01-28](./assignments/a1.txt)
-<!---
-* [A2 due 2019-02-11](./assignments/a2.txt)
-* [A3 due 2019-02-20](./assignments/a3.txt)
-* [A4 due 2019-02-27](./assignments/a4.txt)
-* [A5 due 2019-03-07](./assignments/a5.txt)
-* [A6 due 2019-03-21](./assignments/a6.txt)
-* [A7 due 2019-03-31](./assignments/a7.txt)
-* [A8 due 2019-04-08](./assignments/a8.txt)
-* [A9 due 2019-04-21](./assignments/a9.txt)
-* A10 due 2019-04-17 (Student Presentations: See assignment-10 slack channel for details)
--->
 
