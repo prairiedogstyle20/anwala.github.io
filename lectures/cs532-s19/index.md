@@ -39,5 +39,5 @@ Place: Dragas Hall, r. 1117
 * Week 15 - April 25 : Student Presentations
 
 ### Assignments (subject to change)
-* [A1 due 2019-01-28](./assignments/a1.txt)
+* [A1 due 2019-01-31](./assignments/a1.txt)
 
