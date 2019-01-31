@@ -24,7 +24,7 @@ Place: Dragas Hall, r. 1117
 ### Class Schedule (subject to change)
 * Week 1 - January 17 : [Web Science, Web Architecture](https://docs.google.com/presentation/d/1iqEp6SZgZ-P0IOUt80Gs1wpxKlO26glFSJipnHMMItY/edit?usp=sharing)
 * Week 2 - January 24 : [Introduction to Python](https://drive.google.com/open?id=16b7VpKcdaacDxcVlaLv_eV41xULVimH8)
-* Week 3 - January 31 : [Introduction to R](https://drive.google.com/file/d/1ET4w96hr5qGDx_lq6aM78Nyc9tn4WUuz/view?usp=sharing)
+* Week 3 - January 31 : [Introduction to R](https://drive.google.com/open?id=1bzUL1eS6MVRQXp7XGaUs0P-8xVR1bekm)
 * Week 4 - February 7 : [Measuring and Archiving the Web](https://docs.google.com/presentation/d/1WLPlpCS8OtTE_o-rQcoXyeKc-b_US1ZzTFsiwv9sU4A/edit?usp=sharing)
 * Week 5 - February 14 : [Searching the Web](https://docs.google.com/presentation/d/1jbci5sgF2FSi7II9gQdRK7ZdaZwNlqnPh3FUPuZq7Q0/edit?usp=sharing)
 * Week 6 - February 21 : [Social Networks](https://docs.google.com/presentation/d/1ihf6N8bHgzM5VLAyHkmF_i5JGUBVpCSdsvYpk8XgHwo/edit?usp=sharing)
